@@ -1,8 +1,8 @@
 import React from 'react';
-import image3 from '../assets/image 3.png'
-import image2 from '../assets/image 2.png'
-import image4 from '../assets/image 4.png'
-import image5 from '../assets/image 5.png'
+import image3 from '../assets/image3.png'
+import image2 from '../assets/image2.png'
+import image4 from '../assets/image4.png'
+import image5 from '../assets/image5.png'
 const ChangeYourHabit = () => {
     return (
         <>
