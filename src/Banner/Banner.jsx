@@ -3,6 +3,7 @@ import bannerImage from '../assets/images2.png'
 const Banner = () => {
     return (
         <>
+        
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row lg:justify-between w-full">
                     <div>
