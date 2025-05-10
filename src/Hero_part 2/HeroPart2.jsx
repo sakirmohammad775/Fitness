@@ -3,8 +3,8 @@ import run from '../assets/run.jpg'
 const HeroPart2 = () => {
     return (
         <>
-            <div className="hero bg-gray-800 min-h-max p-15">
-                <div className="hero-content flex-col lg:flex-row">
+            <div className="hero bg-neutral-900 min-h-max p-15">
+                <div className="hero-content flex-col lg:flex-row md:flex-row">
 
                     <div>
                         <h1 className="text-5xl font-bold">Run an Extra <br />Mile Easily</h1>
@@ -12,7 +12,7 @@ const HeroPart2 = () => {
                             We believe fitness should be accessible to everyone, everywhere, regardless of income or access to a gym. With hundreds of professional workouts.
                         </p>
                        
-                         <button className="text-black bg-amber-600 ">join </button>
+                         <button className="text-white btn px-20 rounded-4xl border-none text-xl bg-red-600 ">Join </button>
 
 
                     </div>

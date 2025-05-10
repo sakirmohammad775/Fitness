@@ -2,7 +2,7 @@ import React from 'react';
 
 const BMICalculator = () => {
   return (
-    <div className="bg-gray-900 text-white py-16">
+    <div className="bg-neutral-900 text-white py-16">
       <div className="container mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10">
         {/* BMI Calculator Chart */}
         <div className="rounded-lg shadow-md p-6">
@@ -60,7 +60,7 @@ const BMICalculator = () => {
             <select
               className="bg-gray-800 text-white rounded-md py-3 px-4 focus:outline-none focus:ring-2 focus:ring-teal-500"
             >
-              <option value="">Sex</option>
+              <option value="">Gender</option>
               <option value="male">Male</option>
               <option value="female">Female</option>
               <option value="other">Other</option>
@@ -77,7 +77,7 @@ const BMICalculator = () => {
             <option value="extra-active">Extra active (very hard exercise/sports & physical job or 2x training)</option>
           </select>
           <button
-            className="bg-teal-500 hover:bg-teal-600 text-white font-bold py-3 px-6 rounded-md focus:outline-none focus:shadow-outline active:bg-teal-700 w-full"
+            className="bg-red-600 hover:bg-amber-700 text-white font-bold py-3 px-6 rounded-2xl focus:outline-none focus:shadow-outline active:bg-amber-700 w-1/2"
           >
             Calculate
           </button>
