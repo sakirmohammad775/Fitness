@@ -1,5 +1,5 @@
 import React from 'react';
-import exercise1 from '../assets/exercise1.jpg'
+import images from '../../images.json'
 import exercise2 from '../assets/exercise2.png'
 import exercise3 from '../assets/exercise3.png'
 import exercise4 from '../assets/exercise4.png'
@@ -17,7 +17,7 @@ const TrainingExercise = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-">
                         <div className="relative overflow-hidden rounded-lg shadow-md col-span-1">
                             <img
-                                src={exercise1}
+                                src={images.exercise1}
                                 alt="Exercise 1"
                                 className="w-full h-48 object-cover opacity-70 hover:opacity-100 transition-opacity duration-300"
                             />

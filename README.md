@@ -1,4 +1,6 @@
+Live Link : https://fitness-build-muscle.vercel.app/
 # Fitness Club Website
+# Author name : Sakir Mohammad Safayet
 
 A responsive and visually engaging fitness club website built with **React**, **Tailwind CSS**, and **DaisyUI**. This project is designed for all devices (desktop, tablet, and mobile), offering a clean and modern user experience.
 
@@ -43,14 +45,6 @@ src/
     └── Home.jsx          # Main homepage layout
 ```
 
----
-
-## 📷 Screenshots
-
-You can add screenshots of the banner, responsive views, and BMI calculator here.
-
----
-
 ## 📱 Responsive Design
 
 * Mobile-first approach using Tailwind's responsive classes
@@ -75,13 +69,6 @@ npm install
 
 ### 3. Run the development server:
 
-```bash
-npm run dev
-```
-
-Visit `http://localhost:5173` (if using Vite) to view the project in the browser.
-
----
 
 ## 🌐 Deployment
 
@@ -95,9 +82,8 @@ Just connect your GitHub repo and follow the steps.
 
 ## 🧑‍💻 Author
 
-* **Your Name** – Frontend Developer | MERN Stack Enthusiast
+* **Sakir Mohammad Safayet** – Frontend Developer | MERN Stack Enthusiast
 
-Feel free to update this `README.md` to suit your needs or personal branding.
 
 ---
 
