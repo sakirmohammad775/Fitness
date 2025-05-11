@@ -5,6 +5,7 @@ import exercise3 from '../assets/exercise3.png'
 import exercise4 from '../assets/exercise4.png'
 import exercise5 from '../assets/exercise5.jpg'
 import exercise6 from '../assets/exercise6.jpg'
+
 const TrainingExercise = () => {
     return (
         <>
