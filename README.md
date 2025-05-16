@@ -71,9 +71,7 @@ npm install
 
 
 ## 🌐 Deployment
-
 You can deploy this project easily using:
-
 * [Vercel](https://vercel.com/)
 
 Just connect your GitHub repo and follow the steps.
